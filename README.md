@@ -39,6 +39,7 @@ coreutils (for 'cut', 'echo', 'tail', 'head', 'sleep', 'whoami' commands)
     cp w ~/.w
 
   2. Add your favorite keyboard shortcut to launch the 'dioIDE.sh' script.
+  3. The provided 'Makefile' is just an example that contains 'make clean' and 'make run' that are needed for the IDE to work.
 
   That's all. now you can use the same shortcuts for launching the IDE,
   the same shortcut for savimg, compiling and running the C project.
