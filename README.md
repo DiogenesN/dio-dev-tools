@@ -18,18 +18,18 @@ and dioIDE (name: dioIDE.sh), they are very well annotated, straightforward and 
 # Requirements
 Make sure you have following libs installed:
 
-		gcc
-		sed
-		make
-		grep
-		bash
-		procps (for 'ps')
-		[diowtype](https://github.com/DiogenesN/diowtype) (or ydotool)
-		ncurses-bin (for 'clear')
-		wlrctl (to manage Wayland windows)
-		mousepad (as the default text editor)
-		xfce4-terminal (as the default terminal)
-		coreutils (for 'cut', 'echo', 'tail', 'head', 'sleep', 'whoami' commands)
+gcc
+sed
+make
+grep
+bash
+procps (for 'ps')
+[diowtype](https://github.com/DiogenesN/diowtype) (or ydotool)
+ncurses-bin (for 'clear')
+wlrctl (to manage Wayland windows)
+mousepad (as the default text editor)
+xfce4-terminal (as the default terminal)
+coreutils (for 'cut', 'echo', 'tail', 'head', 'sleep', 'whoami' commands)
 
 # Installation/Usage
   1. Open a terminal and run:
@@ -49,7 +49,7 @@ Make sure you have following libs installed:
 
 # Optional
 
-  If you want to use the my custom modified cobalt theme for mousepad,
+  If you want to use my custom modified cobalt theme for mousepad,
   then copy 'cobalt.xml' to /usr/share/gtksourceview-4/styles/
 
 That's it!
