@@ -41,8 +41,8 @@ coreutils (for 'cut', 'echo', 'tail', 'head', 'sleep', 'whoami' commands)
   2. Add your favorite keyboard shortcut to launch the 'dioIDE.sh' script.
   3. The provided 'Makefile' is just an example that contains 'make clean' and 'make run' that are needed for the IDE to work.
   4. Your C project directory structure should be like this:
-     - main  (the 'main' directory)
-       + src (the 'src' directory contains main.c and all the header files)
+     - main  (the 'main' directory)\
+       + src (the 'src' directory contains main.c and all the header files)\
          Makefile
 
   That's all. now you can use the same shortcuts for launching the IDE,
